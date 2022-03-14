@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Bary","characterIndex":0,"characterName":"Bary","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Bary","traits":[],"initialLevel":1,"maxLevel":99,"name":"Бари","nickname":"Эванг","note":"","profile":""},
+{"id":2,"battlerName":"Elfreed","characterIndex":0,"characterName":"Elfreed","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Elfreed","traits":[],"initialLevel":1,"maxLevel":99,"name":"Элдриф","nickname":"Человек","note":"","profile":""},
+{"id":3,"battlerName":"Dragmond","characterIndex":0,"characterName":"Dragmond","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Dragmond","traits":[{"code":64,"dataId":5,"value":1},{"code":55,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Дрегмонд","nickname":"Дворф","note":"","profile":""},
+{"id":4,"battlerName":"Goldmar","characterIndex":0,"characterName":"Goldmar","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Goldmar","traits":[],"initialLevel":1,"maxLevel":99,"name":"Голдмар","nickname":"Дворф","note":"","profile":""}
+]
